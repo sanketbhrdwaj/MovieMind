@@ -1,0 +1,18 @@
+.venv/
+venv/
+**/__pycache__/
+**pycache**/
+.pytest_cache/
+.pytest_tmp/
+*.pyc
+.env
+.streamlit/secrets.toml
+.DS_Store
+*.log
+artifacts/
+*.joblib
+temporary files
+**/.ipynb_checkpoints/
+*.tmp
+*.bak
+*.swp
